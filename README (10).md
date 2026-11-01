@@ -124,9 +124,9 @@ Tested on a road video I recorded myself with a phone.
 
 | Item | Value |
 |---|---|
-| Test video | _[X] sec, phone recording_ |
-| Unique potholes detected | _[N]_ |
-| Speed | ~16 FPS (Colab T4 GPU) |
+| Test video | 40 sec, phone recording Of a Damaged Surface
+| Unique potholes detected |9 |
+| Speed | ~25 FPS (Colab T4 GPU) |
 
 ## 🔮 Future Improvements
 - [ ] GPS tagging + map dashboard for pothole locations
