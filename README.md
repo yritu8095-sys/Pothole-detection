@@ -142,6 +142,6 @@ Issues and pull requests are welcome.
 Released under the MIT License.
 
 ## 👩‍💻 Author
-**Ritu** — [GitHub](https://github.com/yritu8095-sys) · [LinkedIn](#)
+**Ritu** — [GitHub](https://github.com/yritu8095-sys) · [LinkedIn](https://www.linkedin.com/in/ritu-yadav-016729356/)
 
 <div align="center">⭐ If you found this useful, please star the repo!</div>
